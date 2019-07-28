@@ -1,0 +1,14 @@
+REPORT - 24th March 2019
+
+Data Structure
+  -   Map
+            -   Connect the ID for a road to a road (easy to look up)
+            -   Connect the ID for an intersection to an intersection
+            -   Connect a letter to a Trie Node
+  -   Set
+            -   Collect the segments
+            -   Collect the Locations (of intersections)
+            -   Collect the segments in a road
+  -   Trie
+            -   To search for the name of a road letter by letter
+
