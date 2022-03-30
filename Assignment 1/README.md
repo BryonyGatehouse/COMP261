@@ -1,4 +1,4 @@
-THE AUCKLAND ROAD SYSTEM
+# The Auckland Road System
 
 This assignment involved builing a program that lets a user view and search the 
 Auckland Road system. For this assignment, I had to build a program that read a 
@@ -31,4 +31,5 @@ The Program had to:
   information should include the location of the intersection and all the roads 
   that go through the intersection.
   
-  
+  ![](Assignment%201%20Small%20Graph.png)
+  ![](Assignment%201%20Large%20Graph.png)
