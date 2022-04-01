@@ -1,4 +1,4 @@
-THE 3D RENDERER
+# The 3D Renderer
 
 This assignment implements a simple but complete pipline for rendering 3D shapes 
 represented by polygons.
@@ -25,9 +25,9 @@ This Program had to:
   and/or display it in a window
 
 Possible Polygons
-  -   Ball
-  -   BigBoxes
-  -   Car
-  -   Monkey
-  -   Shapes
-  -   Tetras
+  -   Ball ![](ball.png)
+  -   BigBoxes ![](bigboxes.png)
+  -   Car ![](car.png)
+  -   Monkey ![](monkey.png)
+  -   Shapes ![](shapes.png)
+  -   Tetras ![](tetras.png)
