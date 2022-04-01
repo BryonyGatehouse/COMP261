@@ -1,6 +1,8 @@
+# Assignment 5
+
 This assignment has 3 parts
 
-STRING SEARCH
+## String Search
 
 Implement the brute force and KMP string search algorithms to enable searching in
 the text editor. It takes two arguements: the text to search through and the string
@@ -12,8 +14,10 @@ KMP
   
 Brute Force
   -   Perform string search
+
+![](String%20Search%20Results.png)
   
-HUFFMAN CODING
+## Huffman Coding
 
 Implement the Huffman coding and decoding algorithm. 
 
@@ -21,11 +25,17 @@ Huffman
   -   Create a tree of binary codes for each character in the input text
   -   Encode input text using that tree
   -   Decode previously encoded text with that tree
+
+![](Huffman%20Coding.png)
+![](Huffman%20Coding%20Results.png)
   
-LEMPEL-ZIV COMPRESSION
+## Lempel-Ziv Compression
 
 Implement the Lempel-Ziv 77 compression and decompression algorithms.
 
 Lempel-Ziv
   -   Compress text using | as a delimit (not included in given texts)
   -   Decode text
+
+![](Lempel-Ziv.png)
+![](Lempel-Ziv%20Results.png)
